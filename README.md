@@ -1,4 +1,4 @@
-# Decentralized Application For Auction : Ethereum
+# Decentralized Application For Auction : Ethereum + Vue.js
 
 This project aims to implement basic functionalities of an auction platform using Ethereum.
 
