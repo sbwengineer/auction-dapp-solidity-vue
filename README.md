@@ -1,10 +1,10 @@
-# Decentralized Auction Application on Ethereum
+# Decentralized Application For Auction : Ethereum
 
 This project aims to implement basic functionalities of an auction platform using Ethereum.
 
 ## Requirements
 
-![Auction Diagram](diagram.jpg)
+![Diagram](diagram.jpg)
 
 The application should be decentralized and utilize Ethereum's stack:
 
